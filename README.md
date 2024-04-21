@@ -15,20 +15,29 @@ The primary objectives of this coursework are:
 </ul>
 
 <h2>Data Description</h2>
-
+<a href="https://drive.google.com/drive/folders/1xzQ5pIEnaUN2DOyZTqYSJrxFMC8Unx73?usp=sharing">Link to dataset</a>
 <p>The dataset contains daily HCHO measurements from the Sentinel-5P satellite for seven cities in Sri Lanka: Colombo Proper, Deniyaya (Matara), Nuwara Eliya Proper, Bibile (Monaragala), Kurunegala Proper, Jaffna Proper, and Kandy Proper. The historical data spans from January 1, 2019, to December 31, 2023. Each row of the dataset includes the HCHO reading, location, current date, and next date.
 </p>
-<a href="https://drive.google.com/drive/folders/1xzQ5pIEnaUN2DOyZTqYSJrxFMC8Unx73?usp=sharing">Link to dataset</a>
 
-Tasks
-Data Preprocessing
-Clean and prepare the data by addressing missing values, outliers, and format inconsistencies.
-Explore descriptive statistics to summarize HCHO levels for each city and visualize data distribution using histograms, boxplots, or other visualizations.
-Spatio-Temporal Analysis
-Analyze trends over time, identify seasonal variations, and compare trends across cities.
+
+<h2>Tasks</h2>
+
+<h3>Data Preprocessing</h3>
+<ul>
+  
+<li>Clean and prepare the data by addressing missing values, outliers, and format inconsistencies.
+<li>Explore descriptive statistics to summarize HCHO levels for each city and visualize data distribution using histograms, boxplots, or other visualizations.</li>
+
+</ul>
+
+<h3>Spatio-Temporal Analysis</h3>
+<ul>
+<li>Analyze trends over time, identify seasonal variations, and compare trends across cities.</li>
 Correlate HCHO levels with external factors such as weather, fire events, or anthropogenic activities.
 Compare spatial patterns of HCHO distribution between cities and investigate potential contributing factors.
-Machine Learning
+</ul>
+<h3>Machine Learning</h3>
+
 Develop a machine learning model (e.g., ARIMA) to predict future HCHO levels based on historical data.
 Evaluate the model's performance using appropriate metrics such as mean squared error and R-squared.
 Conclusion
