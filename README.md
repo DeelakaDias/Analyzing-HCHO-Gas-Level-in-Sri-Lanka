@@ -1,6 +1,6 @@
 <h1>HCHO Analysis in Sri Lanka</h1>
 
-Introduction
+<h2>Introduction</h2>
 This coursework focuses on the analysis of formaldehyde (HCHO) levels in Sri Lanka, utilizing data collected from the Sentinel-5P satellite. HCHO is a harmful air pollutant associated with various health issues, including respiratory irritation and cancer risks. Understanding the spatial and temporal patterns of HCHO is essential for assessing air quality, identifying emission sources, and monitoring the effectiveness of air quality regulations.
 
 Objectives
