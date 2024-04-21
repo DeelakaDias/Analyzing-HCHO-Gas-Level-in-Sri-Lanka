@@ -32,7 +32,8 @@ The primary objectives of this coursework are:
 <ul>
 <li>Analyze trends over time, identify seasonal variations, and compare trends across cities, Changes in gas emissions due to the COVID-19 lockdowns</li>
   <br>
-  ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/5246dacb-ce40-4449-9d60-b03fbc103cdb)
+  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/5246dacb-ce40-4449-9d60-b03fbc103cdb">Average HCHO Reading by Month for year 2019 - 2023</a>
+  </li>
   <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d38b9069-6cd9-4a93-a5ad-5abca179ed12)
   <br>
