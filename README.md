@@ -31,16 +31,26 @@ The primary objectives of this coursework are:
 <h3>Spatio-Temporal Analysis</h3>
 <ul>
 <li>Analyze trends over time, identify seasonal variations, and compare trends across cities, Changes in gas emissions due to the COVID-19 lockdowns</li>
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/5246dacb-ce40-4449-9d60-b03fbc103cdb)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d38b9069-6cd9-4a93-a5ad-5abca179ed12)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/a2b469b9-3e09-4e4a-a141-312fa24ddab6)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/3afa655d-9cff-4ca6-8a40-c61b41e9f0d4)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/bb0ec952-13fa-4fbd-8d6f-96d9f07f813e)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d7b38467-a184-4039-a57d-786938990828)
+  <br>
 <li>Correlate HCHO levels with external factors such as weather, fire events, or anthropogenic activities.</li>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/79c8b0b3-1b53-431a-b046-27491c07dabc)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/0f4fcc84-746c-456d-87a6-a7d788294c77)
+  <br>
   ![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/76120a5a-75b7-40e7-8760-a4c5498af4e9)
+  <br>
 </ul>
 
 <h3>Machine Learning</h3>
