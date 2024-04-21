@@ -1,15 +1,20 @@
 <h1>HCHO Analysis in Sri Lanka</h1>
 
 <h2>Introduction</h2>
-This coursework focuses on the analysis of formaldehyde (HCHO) levels in Sri Lanka, utilizing data collected from the Sentinel-5P satellite. HCHO is a harmful air pollutant associated with various health issues, including respiratory irritation and cancer risks. Understanding the spatial and temporal patterns of HCHO is essential for assessing air quality, identifying emission sources, and monitoring the effectiveness of air quality regulations.
+<p>This is focuses on the analysis of formaldehyde (HCHO) levels in Sri Lanka, utilizing data collected from the Sentinel-5P satellite. HCHO is a harmful air pollutant associated with various health issues, including respiratory irritation and cancer risks. Understanding the spatial and temporal patterns of HCHO is essential for assessing air quality, identifying emission sources, and monitoring the effectiveness of air quality regulations.
+</p>
 
-Objectives
+<h2>Objectives</h2>
+
 The primary objectives of this coursework are:
+<ul>
+<li>Utilize data engineering skills to analyze HCHO data in Sri Lanka.</li>
+<li>Understand the importance of HCHO monitoring for air quality and climate studies.</li>
+<li>Develop insights into potential HCHO sources and spatial/temporal trends.</li>
+<li>Develop time series prediction algorithms (such as ARIMA models) to forecast future HCHO levels.</li>
 
-Utilize data engineering skills to analyze HCHO data in Sri Lanka.
-Understand the importance of HCHO monitoring for air quality and climate studies.
-Develop insights into potential HCHO sources and spatial/temporal trends.
-Develop time series prediction algorithms (such as ARIMA models) to forecast future HCHO levels.
+</ul>
+
 Data Description
 The dataset contains daily HCHO measurements from the Sentinel-5P satellite for seven cities in Sri Lanka: Colombo Proper, Deniyaya (Matara), Nuwara Eliya Proper, Bibile (Monaragala), Kurunegala Proper, Jaffna Proper, and Kandy Proper. The historical data spans from January 1, 2019, to December 31, 2023. Each row of the dataset includes the HCHO reading, location, current date, and next date.
 
