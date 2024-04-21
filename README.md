@@ -32,24 +32,27 @@ The primary objectives of this coursework are:
 <ul>
 <li>Analyze trends over time, identify seasonal variations, and compare trends across cities, Changes in gas emissions due to the COVID-19 lockdowns</li>
   <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/5246dacb-ce40-4449-9d60-b03fbc103cdb">Average HCHO Reading by Month for year 2019 - 2023</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d38b9069-6cd9-4a93-a5ad-5abca179ed12">Average HCHO Reading by Year</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/a2b469b9-3e09-4e4a-a141-312fa24ddab6">Average HCHO Reading by Year for Each City</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/3afa655d-9cff-4ca6-8a40-c61b41e9f0d4">Average HCHO Readings before pandemic</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/bb0ec952-13fa-4fbd-8d6f-96d9f07f813e">Average HCHO Readings during pandemic</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d7b38467-a184-4039-a57d-786938990828">Average HCHO Readings after pandemic</a>
-  </li>
-  <br>
+      <ul>
+          <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/5246dacb-ce40-4449-9d60-b03fbc103cdb">Average HCHO Reading by Month for year 2019 - 2023</a>
+          </li>
+          <br>
+          <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d38b9069-6cd9-4a93-a5ad-5abca179ed12">Average HCHO Reading by Year</a>
+          </li>
+          <br>
+          <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/a2b469b9-3e09-4e4a-a141-312fa24ddab6">Average HCHO Reading by Year for Each City</a>
+          </li>
+          <br>
+          <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/3afa655d-9cff-4ca6-8a40-c61b41e9f0d4">Average HCHO Readings before pandemic</a>
+          </li>
+          <br>
+          <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/bb0ec952-13fa-4fbd-8d6f-96d9f07f813e">Average HCHO Readings during pandemic</a>
+          </li>
+          <br>
+          <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/d7b38467-a184-4039-a57d-786938990828">Average HCHO Readings after pandemic</a>
+          </li>
+          <br>
+      </ul>
+      
 <li>Correlate HCHO levels with external factors such as weather, fire events, or anthropogenic activities.</li>
   <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/79c8b0b3-1b53-431a-b046-27491c07dabc">Heatmap of Weather and HCHO Readings in Colombo</a>
   </li>
