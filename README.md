@@ -1,4 +1,4 @@
-<h1>HCHO Analysis in Sri Lanka</h1>
+![image](https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/0ff2a765-5925-4463-a5f9-daec8d8e0418)<h1>HCHO Analysis in Sri Lanka</h1>
 
 <h2>Introduction</h2>
 <p>This is focuses on the analysis of formaldehyde (HCHO) levels in Sri Lanka, utilizing data collected from the Sentinel-5P satellite. HCHO is a harmful air pollutant associated with various health issues, including respiratory irritation and cancer risks. Understanding the spatial and temporal patterns of HCHO is essential for assessing air quality, identifying emission sources, and monitoring the effectiveness of air quality regulations.
@@ -36,6 +36,8 @@ The primary objectives of this coursework are:
 Correlate HCHO levels with external factors such as weather, fire events, or anthropogenic activities.
 Compare spatial patterns of HCHO distribution between cities and investigate potential contributing factors.
 </ul>
+
+
 <h3>Machine Learning</h3>
 <ul>
 <li>Develop a machine learning model (e.g., ARIMA) to predict future HCHO levels based on historical data.</li>
