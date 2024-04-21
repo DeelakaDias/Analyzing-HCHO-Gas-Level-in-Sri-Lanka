@@ -52,17 +52,19 @@ The primary objectives of this coursework are:
           </li>
           <br>
       </ul>
-      
+
 <li>Correlate HCHO levels with external factors such as weather, fire events, or anthropogenic activities.</li>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/79c8b0b3-1b53-431a-b046-27491c07dabc">Heatmap of Weather and HCHO Readings in Colombo</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/0f4fcc84-746c-456d-87a6-a7d788294c77">Heatmap of Weather and HCHO Readings in Kurunegala</a>
-  </li>
-  <br>
-  <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/76120a5a-75b7-40e7-8760-a4c5498af4e9">Heatmap of Weather and HCHO Readings in Nuwara Eliya</a>
-  </li>
-  <br>
+    <ul>
+        <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/79c8b0b3-1b53-431a-b046-27491c07dabc">Heatmap of Weather and HCHO Readings in Colombo</a>
+        </li>
+        <br>
+        <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/0f4fcc84-746c-456d-87a6-a7d788294c77">Heatmap of Weather and HCHO Readings in Kurunegala</a>
+        </li>
+        <br>
+        <li><a href="https://github.com/DeelakaDias/Analyzing-HCHO-Gas-Level-in-Sri-Lanka/assets/127048309/76120a5a-75b7-40e7-8760-a4c5498af4e9">Heatmap of Weather and HCHO Readings in Nuwara Eliya</a>
+        </li>
+        <br>
+    </ul>
 </ul>
 
 <h3>Machine Learning</h3>
