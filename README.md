@@ -37,8 +37,12 @@ Correlate HCHO levels with external factors such as weather, fire events, or ant
 Compare spatial patterns of HCHO distribution between cities and investigate potential contributing factors.
 </ul>
 <h3>Machine Learning</h3>
+<ul>
+<li>Develop a machine learning model (e.g., ARIMA) to predict future HCHO levels based on historical data.</li>
+<li>Evaluate the model's performance using appropriate metrics such as mean squared error and R-squared.</li>
+</ul>
+<h2>Conclusion</h2>
 
-Develop a machine learning model (e.g., ARIMA) to predict future HCHO levels based on historical data.
-Evaluate the model's performance using appropriate metrics such as mean squared error and R-squared.
-Conclusion
-This coursework provides valuable insights into air quality and public health risks associated with HCHO pollution in Sri Lanka. By analyzing satellite data and implementing machine learning models, researchers can contribute to environmental research and promote sustainable development practices.
+<p>
+The formaldehyde (HCHO) gas levels in seven major Sri Lankan cities—Columbo, Jaffna, Kurunegala, Nuwara Eliya, Monaragala, Matara, and Kandy—were examined in this study. By applying predictive modeling methods and time-series data analysis, we were able to pinpoint temporal trends and spatial variations in HCHO concentrations. Using ARIMA models, we projected future HCHO levels for every city, offering important insights into possible health risks related to the environment. The uncertainty assessment of our findings highlights the significance of using reliable modeling and data collection techniques. Policymakers and other stakeholders involved in public health and urban environmental management initiatives throughout Sri Lanka can benefit greatly from the guidance provided by these findings.
+</p>
